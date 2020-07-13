@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "8769d538-0309-4ef0-8839-71d6d4fe747f",
+  "isBundle": true,
+  "bundleName": "AudioCLips",
+  "priority": 1,
+  "compressionType": {
+    "wechatgame": "default"
+  },
+  "optimizeHotUpdate": {
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "wechatgame": true
+  },
+  "subMetas": {}
+}
